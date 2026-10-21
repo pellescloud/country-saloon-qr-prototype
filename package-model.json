@@ -1,0 +1,175 @@
+{
+  "version": 5,
+  "modules": [
+    {
+      "id": "mix6",
+      "name": "6 øl, cider eller seltzer",
+      "kind": "mix",
+      "servings": 6,
+      "price": 690,
+      "unit_price": 115,
+      "description": "Velg miksen selv. Seks hele serveringer."
+    },
+    {
+      "id": "cocktail6",
+      "name": "6 enkle drinker",
+      "kind": "cocktails",
+      "servings": 6,
+      "price": 1170,
+      "unit_price": 195,
+      "description": "Én base og én blander. Oppskrifter avtales."
+    },
+    {
+      "id": "red75",
+      "name": "Rødvin · 0,75 l",
+      "kind": "wine",
+      "bottles": 1,
+      "litres_per_bottle": 0.75,
+      "price": 750,
+      "description": "Arbeidsprisklasse 750 kr per flaske. Vin velges."
+    },
+    {
+      "id": "white75",
+      "name": "Hvitvin · 0,75 l",
+      "kind": "wine",
+      "bottles": 1,
+      "litres_per_bottle": 0.75,
+      "price": 750,
+      "description": "Arbeidsprisklasse 750 kr per flaske. Vin velges."
+    },
+    {
+      "id": "rose75",
+      "name": "Rosé · 0,75 l",
+      "kind": "wine",
+      "bottles": 1,
+      "litres_per_bottle": 0.75,
+      "price": 750,
+      "description": "Arbeidsprisklasse 750 kr per flaske. Vin velges."
+    },
+    {
+      "id": "prosecco75",
+      "name": "Prosecco · 0,75 l",
+      "kind": "wine",
+      "bottles": 1,
+      "litres_per_bottle": 0.75,
+      "price": 895,
+      "description": "Arbeidsprisklasse 895 kr per flaske. Produkt velges."
+    }
+  ],
+  "large_tiers": [
+    {
+      "id": "standard",
+      "name": "Standard",
+      "price_per_person": 750,
+      "combination": "Øl/cider/seltzer, rosé og enkle drinker",
+      "wine_class": "Rosé i arbeidsprisklasse 750 kr per 0,75 l",
+      "drink_class": "Enkle drinker: én base + én blander, arbeidsprisklasse 195 kr per servering",
+      "counts": {
+        "6": {
+          "mix": 12,
+          "rose75": 2,
+          "cocktails": 6
+        },
+        "8": {
+          "mix": 16,
+          "rose75": 3,
+          "cocktails": 8
+        },
+        "12": {
+          "mix": 24,
+          "rose75": 4,
+          "cocktails": 12
+        }
+      }
+    },
+    {
+      "id": "pluss",
+      "name": "Pluss",
+      "price_per_person": 950,
+      "combination": "Øl/cider/seltzer, rosé, prosecco og signaturdrinker",
+      "wine_class": "Rosé 750 kr og prosecco 895 kr per 0,75 l som arbeidsprisklasser",
+      "drink_class": "Signaturforslag: frisk sitrus + avtalt sirup/garnityr, arbeidsprisklasse 225 kr per servering; oppskrift velges",
+      "counts": {
+        "6": {
+          "mix": 6,
+          "rose75": 2,
+          "prosecco75": 2,
+          "cocktails": 6
+        },
+        "8": {
+          "mix": 8,
+          "rose75": 3,
+          "prosecco75": 3,
+          "cocktails": 8
+        },
+        "12": {
+          "mix": 12,
+          "rose75": 4,
+          "prosecco75": 4,
+          "cocktails": 12
+        }
+      }
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "price_per_person": 1250,
+      "combination": "Øl/cider/seltzer, rødvin, hvitvin og premiumdrinker",
+      "wine_class": "Rødvin og hvitvin i foreslått arbeidsprisklasse 950 kr per 0,75 l; konkrete viner velges",
+      "drink_class": "Premiumforslag: valgt premiumbase og avtalt garnityr, arbeidsprisklasse 265 kr per servering; ordinær serveringsstyrke",
+      "counts": {
+        "6": {
+          "mix": 6,
+          "red75": 2,
+          "white75": 2,
+          "cocktails": 6
+        },
+        "8": {
+          "mix": 8,
+          "red75": 3,
+          "white75": 3,
+          "cocktails": 8
+        },
+        "12": {
+          "mix": 12,
+          "red75": 4,
+          "white75": 4,
+          "cocktails": 12
+        }
+      }
+    }
+  ],
+  "serving_rules": [
+    "Alle flasker er hele 0,75 l-flasker. Ingen 4-liters flaskeantakelse for åtte gjester.",
+    "Store pakker har faste, ulike kombinasjoner, ikke bare en dyrere etikett på identisk innhold.",
+    "Øl/cider/seltzer og drinker telles som hele serveringer; store pakker bruker innholdstyper fra modulene, men er egne avtalte kombinasjoner.",
+    "Snacks inngår ikke i store pakker. Det er bare et separat, aktivt tillegg.",
+    "Ingen bunnløs servering eller oppfordring til høyere serveringsstyrke."
+  ],
+  "price_status": "Alle modulpriser, tierpriser og prisklasser er arbeidsforslag. Produkter, oppskrifter, varekost og endelige priser er ikke vedtatt.",
+  "unit_margin": null,
+  "sales_gain": null,
+  "delivery": {
+    "small_modules": "Til bordet",
+    "large_tiers": "Til bordet",
+    "individual_bar_items": "Hentes i baren",
+    "sausage": "Hentes i matboden"
+  },
+  "tier_totals": {
+    "standard": {
+      "6": 4500,
+      "8": 6000,
+      "12": 9000
+    },
+    "pluss": {
+      "6": 5700,
+      "8": 7600,
+      "12": 11400
+    },
+    "premium": {
+      "6": 7500,
+      "8": 10000,
+      "12": 15000
+    }
+  }
+}
