@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "modules": [
     {
       "id": "mix6",
@@ -8,7 +8,7 @@
       "servings": 6,
       "price": 690,
       "unit_price": 115,
-      "description": "Velg miksen selv. Seks hele serveringer."
+      "description": "Velg seks serveringer blant fem øl, fire cidere og fire seltzere fra Mack. Serveres i plastglass."
     },
     {
       "id": "cocktail6",
@@ -17,43 +17,47 @@
       "servings": 6,
       "price": 1170,
       "unit_price": 195,
-      "description": "Én base og én blander. Oppskrifter avtales."
+      "description": "Velg seks enkle drinker. Én spritbase og én mikser per drink, servert i plastglass. Endelige merker og mengder avklares."
     },
     {
       "id": "red75",
-      "name": "Rødvin · 0,75 l",
+      "name": "Rødvin · 5 glass à 0,15 l",
       "kind": "wine",
-      "bottles": 1,
-      "litres_per_bottle": 0.75,
       "price": 750,
-      "description": "Arbeidsprisklasse 750 kr per flaske. Vin velges."
+      "description": "Fem serveringer à 0,15 l i plastglass. Totalt 0,75 l. Vinleverandør og endelig pris velges.",
+      "glasses": 5,
+      "litres_per_glass": 0.15,
+      "total_litres": 0.75
     },
     {
       "id": "white75",
-      "name": "Hvitvin · 0,75 l",
+      "name": "Hvitvin · 5 glass à 0,15 l",
       "kind": "wine",
-      "bottles": 1,
-      "litres_per_bottle": 0.75,
       "price": 750,
-      "description": "Arbeidsprisklasse 750 kr per flaske. Vin velges."
+      "description": "Fem serveringer à 0,15 l i plastglass. Totalt 0,75 l. Vinleverandør og endelig pris velges.",
+      "glasses": 5,
+      "litres_per_glass": 0.15,
+      "total_litres": 0.75
     },
     {
       "id": "rose75",
-      "name": "Rosé · 0,75 l",
+      "name": "Rosé · 5 glass à 0,15 l",
       "kind": "wine",
-      "bottles": 1,
-      "litres_per_bottle": 0.75,
       "price": 750,
-      "description": "Arbeidsprisklasse 750 kr per flaske. Vin velges."
+      "description": "Fem serveringer à 0,15 l i plastglass. Totalt 0,75 l. Vinleverandør og endelig pris velges.",
+      "glasses": 5,
+      "litres_per_glass": 0.15,
+      "total_litres": 0.75
     },
     {
       "id": "prosecco75",
-      "name": "Prosecco · 0,75 l",
+      "name": "Prosecco · 5 glass à 0,15 l",
       "kind": "wine",
-      "bottles": 1,
-      "litres_per_bottle": 0.75,
       "price": 895,
-      "description": "Arbeidsprisklasse 895 kr per flaske. Produkt velges."
+      "description": "Fem serveringer à 0,15 l i plastglass. Totalt 0,75 l. Vinleverandør og endelig pris velges.",
+      "glasses": 5,
+      "litres_per_glass": 0.15,
+      "total_litres": 0.75
     }
   ],
   "large_tiers": [
@@ -62,8 +66,8 @@
       "name": "Standard",
       "price_per_person": 750,
       "combination": "Øl/cider/seltzer, rosé og enkle drinker",
-      "wine_class": "Rosé i arbeidsprisklasse 750 kr per 0,75 l",
-      "drink_class": "Enkle drinker: én base + én blander, arbeidsprisklasse 195 kr per servering",
+      "wine_class": "Husets vin velges separat. Mengdene fordeles i plastglass à 0,15 l.",
+      "drink_class": "Valgte enkle drinker med én base og én mikser. Endelige merker og serveringsmengder avklares.",
       "counts": {
         "6": {
           "mix": 12,
@@ -86,9 +90,9 @@
       "id": "pluss",
       "name": "Pluss",
       "price_per_person": 950,
-      "combination": "Øl/cider/seltzer, rosé, prosecco og signaturdrinker",
-      "wine_class": "Rosé 750 kr og prosecco 895 kr per 0,75 l som arbeidsprisklasser",
-      "drink_class": "Signaturforslag: frisk sitrus + avtalt sirup/garnityr, arbeidsprisklasse 225 kr per servering; oppskrift velges",
+      "combination": "Øl/cider/seltzer, rosé, prosecco og enkle drinker",
+      "wine_class": "Husets vin velges separat. Mengdene fordeles i plastglass à 0,15 l.",
+      "drink_class": "Valgte enkle drinker med én base og én mikser. Endelige merker og serveringsmengder avklares.",
       "counts": {
         "6": {
           "mix": 6,
@@ -114,9 +118,9 @@
       "id": "premium",
       "name": "Premium",
       "price_per_person": 1250,
-      "combination": "Øl/cider/seltzer, rødvin, hvitvin og premiumdrinker",
-      "wine_class": "Rødvin og hvitvin i foreslått arbeidsprisklasse 950 kr per 0,75 l; konkrete viner velges",
-      "drink_class": "Premiumforslag: valgt premiumbase og avtalt garnityr, arbeidsprisklasse 265 kr per servering; ordinær serveringsstyrke",
+      "combination": "Øl/cider/seltzer, rødvin, hvitvin og enkle drinker",
+      "wine_class": "Husets vin velges separat. Mengdene fordeles i plastglass à 0,15 l.",
+      "drink_class": "Valgte enkle drinker med én base og én mikser. Endelige merker og serveringsmengder avklares.",
       "counts": {
         "6": {
           "mix": 6,
@@ -140,11 +144,11 @@
     }
   ],
   "serving_rules": [
-    "Alle flasker er hele 0,75 l-flasker. Ingen 4-liters flaskeantakelse for åtte gjester.",
-    "Store pakker har faste, ulike kombinasjoner, ikke bare en dyrere etikett på identisk innhold.",
-    "Øl/cider/seltzer og drinker telles som hele serveringer; store pakker bruker innholdstyper fra modulene, men er egne avtalte kombinasjoner.",
-    "Snacks inngår ikke i store pakker. Det er bare et separat, aktivt tillegg.",
-    "Ingen bunnløs servering eller oppfordring til høyere serveringsstyrke."
+    "All drikke serveres i plastglass. Én vinmodul er fem glass à 0,15 l, totalt 0,75 l. Ingen flaske leveres til gjesten.",
+    "Øl, cider og seltzer velges som konkrete Mack-varianter. Antallet må stemme nøyaktig med pakken.",
+    "Drinker velges som konkrete kombinasjoner av én base og én mikser. Husets oppskrifter og serveringsmengder avklares før drift.",
+    "Store pakker beholder egne faste kombinasjoner og prototypepriser. Snacks inngår ikke.",
+    "Alle utvalg, serveringsmengder og priser er illustrative forslag. Ingen ekte bestilling."
   ],
   "price_status": "Alle modulpriser, tierpriser og prisklasser er arbeidsforslag. Produkter, oppskrifter, varekost og endelige priser er ikke vedtatt.",
   "unit_margin": null,

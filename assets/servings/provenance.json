@@ -1,0 +1,110 @@
+{
+  "type": "Illustrative servings, not verified product photographs",
+  "images": [
+    {
+      "id": "beer-light",
+      "file": "assets/servings/beer-light.png",
+      "bytes": 86856,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One clear transparent tapered 500 ml PLASTIC festival cup with rolled lip and fine molded rim, filled with pale golden lager and a modest flat head. No glass mug. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "beer-hazy",
+      "file": "assets/servings/beer-hazy.png",
+      "bytes": 74844,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One clear transparent tapered 500 ml PLASTIC festival cup with rolled lip and fine molded rim, filled with pale hazy golden IPA and a modest flat head. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "beer-dark",
+      "file": "assets/servings/beer-dark.png",
+      "bytes": 75832,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One clear transparent tapered 500 ml PLASTIC festival cup with rolled lip and fine molded rim, filled with dark amber-brown lager and a modest flat head. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "cider",
+      "file": "assets/servings/cider.png",
+      "bytes": 83285,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One clear transparent tapered 500 ml PLASTIC festival cup with rolled lip and fine molded rim, filled with pale straw cider, a few subtle bubbles, no foam. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "clear-drink",
+      "file": "assets/servings/clear-drink.png",
+      "bytes": 68099,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One clear transparent tapered 400 ml PLASTIC festival cup with rolled lip and fine molded rim, filled with COLORLESS sparkling liquid. No foam, fruit or ice. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "wine-red",
+      "file": "assets/servings/wine-red.png",
+      "bytes": 65177,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One SMALL clear transparent tapered STEMLESS PLASTIC festival cup with rolled lip and fine molded rim, containing a modest 150 ml serving of muted ruby red wine. No wine glass stem, no bottle. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "wine-white",
+      "file": "assets/servings/wine-white.png",
+      "bytes": 61618,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One SMALL clear transparent tapered STEMLESS PLASTIC festival cup with rolled lip and fine molded rim, containing a modest 150 ml serving of pale straw white wine. No wine glass stem, no bottle. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "wine-rose",
+      "file": "assets/servings/wine-rose.png",
+      "bytes": 69650,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One SMALL clear transparent tapered STEMLESS PLASTIC festival cup with rolled lip and fine molded rim, containing a modest 150 ml serving of pale salmon rose wine. No wine glass stem, no bottle. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "orange-drink",
+      "file": "assets/servings/orange-drink.png",
+      "bytes": 71890,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One clear transparent tapered 400 ml PLASTIC festival cup with rolled lip and fine molded rim, containing plain opaque orange juice. No foam, garnish or ice. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "cranberry-drink",
+      "file": "assets/servings/cranberry-drink.png",
+      "bytes": 68020,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One clear transparent tapered 400 ml PLASTIC festival cup with rolled lip and fine molded rim, containing transparent dark red cranberry mixer. No foam, garnish or ice. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "cola-drink",
+      "file": "assets/servings/cola-drink.png",
+      "bytes": 85056,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One clear transparent tapered 400 ml PLASTIC festival cup with rolled lip and fine molded rim, containing dark brown cola with subtle bubbles. No foam, garnish or ice. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "sausage",
+      "file": "assets/servings/sausage.png",
+      "bytes": 90171,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One simple sausage in a bread bun on a small white paper serving tray, thin ketchup and mustard lines. No fries, no drinks, no branding. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "chips",
+      "file": "assets/servings/chips.png",
+      "bytes": 78298,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One small plain white paper snack tray containing plain golden potato chips. No dip, no garnish, no drinks. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "jerky",
+      "file": "assets/servings/jerky.png",
+      "bytes": 82667,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One small plain white paper snack tray containing several natural dark brown strips of beef jerky. No garnish, no drinks. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    },
+    {
+      "id": "stockfish",
+      "file": "assets/servings/stockfish.png",
+      "bytes": 88131,
+      "prompt": "Use case: product-mockup. Asset type: single standalone catalog thumbnail plate for Country Saloon mobile ordering prototype. Generate a square 768 by 768 image. Subject: One small plain white paper snack tray containing small pale ivory dried stockfish pieces, recognizably dry fibrous fish. No garnish, no drinks. Center the complete single serving with generous consistent 15% margins; camera at cup mid-height with a slight view of its top, controlled neutral documentary studio lighting. Plain seamless NEUTRAL LIGHT GRAY #F1F1F1 background, small soft realistic grounding shadow. Accurate understated material appearance, photographic illustration, sharp focus, no stylized 3D. Show plastic rolled rim and slight plastic texture clearly; no glassware unless subject is food which uses paper tray. No condensation, splashes, strong glow, props, labels, logos, text, people or lifestyle scene. Do not imply a specific branded product; a clearly labeled serving illustration used alongside real product names. Image contains only the specified cup or food tray. Same sober photographic treatment for alcohol, alcohol-free drinks and food.",
+      "source": "OpenAI built-in image_gen; standalone plate, downsampled to thumbnail size"
+    }
+  ]
+}
