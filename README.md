@@ -5,7 +5,7 @@ Mobilprototype for Tromsø Countryfestival. Hele menyen kan bestilles fra bordet
 ## Prøv prototypen
 
 - Åpne nettsiden på mobil. Velg bord, eller bestill uten bord til henting.
-- Bytt mellom menyoppsett A, B og C. Ingen endelig designretning er vedtatt.
+- Alternativ A, med kategorier først, er valgt som standard for prototypen. B og C kan fortsatt prøves som sammenligninger.
 - Legg varer i kurven og fullfør den tydelig merkede demobetalingen.
 - Velg egne kategorier for øl, cider, seltzer, rødvin, hvitvin, rosé, drinker, alkoholfritt og mat/snacks. Øl, cider og seltzer bruker kontrollerte Mack-produktnavn.
 - Bordpakker lar deg velge konkrete Mack-varianter og enkle drinker. Riktig antall må være valgt før pakken kan legges i kurven.
